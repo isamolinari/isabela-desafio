@@ -11,8 +11,8 @@ body{
     background-color:#fafafa;
     border-radius:10px;
     box-shadow:0 2px 5px rgb(244,248,6);
-    widdh:400px;
-    max-widdh:100%;
-    overflow:hitten;
+    width:400px;
+    max-width:100%;
+    overflow:hidden;
     padding:20px;
 }
