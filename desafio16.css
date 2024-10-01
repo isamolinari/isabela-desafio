@@ -2,9 +2,9 @@ body{
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(120deg,#55cc22 0%,#cc2030 100%);
-    display:felx;
-    justfy-content:center;
-    align-itens:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 .tela{
